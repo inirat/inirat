@@ -86,6 +86,7 @@ I have worked extensively on integrating enterprise systems such as:
 - ERP platforms
 - POS systems
 - External APIs
+- OODO ERP
 - Webhook-based integrations
 
 Typical integration architecture:
@@ -174,7 +175,7 @@ Microsoft Entra ID • Azure API Management
 
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 💻 GitHub: https://github.com/inirat
-- 📧 Email: [Your Email]
+- 📧 Email: mahmoud.inirat@gmail.com
 
 ---
 
